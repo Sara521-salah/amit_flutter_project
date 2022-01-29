@@ -1,0 +1,14 @@
+import 'package:flutter/material.dart';
+const colorBlackGrey=Color.fromRGBO( 33, 32, 32 , 1);
+const colorAmber=Colors.amber;
+const colorWhite=Colors.white;
+const colorWhite70=Colors.white70;
+const colorBlue=Colors.blue;
+const colorGrey=Colors.grey;
+const colorBlack=Colors.black;
+const colorBlack2=Color.fromRGBO( 48, 46, 46 ,1);
+const colorBlack3=Color.fromRGBO(  12, 12, 12  , 0.8);
+const colorBlack4=Color.fromRGBO(   40, 40, 40  , 0.8);
+const double fontSize20=20;
+const double fontSize25=25;
+const String basicUrlImage="https://image.tmdb.org/t/p/w500";
