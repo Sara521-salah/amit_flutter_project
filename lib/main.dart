@@ -8,9 +8,13 @@ import 'package:movice/screens/home_screen.dart';
 import 'package:movice/splash_screen.dart';
 import 'package:provider/provider.dart';
 
+import 'categories.dart';
 import 'goto.dart';
 import 'home_layhout.dart';
+import 'logic/api.dart';
 import 'loginScreen.dart';
+import 'registerScreen.dart';
+import 'splash_screen.dart';
 main(){
   runApp(Movices());
 }
